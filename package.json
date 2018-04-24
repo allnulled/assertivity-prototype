@@ -1,0 +1,22 @@
+{
+  "name": "assertivity.prototype",
+  "version": "1.0.0",
+  "description": "JavaScript prototype to inherit a bunch of methods that conform boolean expressions.",
+  "main": "assertivity.prototype.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/assertivity-prototype.git"
+  },
+  "keywords": [
+    "assert"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allnulled/assertivity-prototype/issues"
+  },
+  "homepage": "https://github.com/allnulled/assertivity-prototype#readme"
+}
