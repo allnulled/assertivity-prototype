@@ -87,7 +87,7 @@ Assertivity.prototype.it.has.not.key(reference,other)
 Assertivity.prototype.it.has.not.keys(reference,other)
 Assertivity.prototype.it.has.not.value(reference,other)
 Assertivity.prototype.it.has.not.values(reference,other)
-```js
+```
 
 # 4. Conclusion
 
