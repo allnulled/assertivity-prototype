@@ -91,15 +91,4 @@ Assertivity.prototype.it.has.not.values(reference,other)
 
 # 4. Conclusion
 
-This is a basic class. Adapt it to your own convenience, it is free..:reference)
-Assertivity.prototype.it.has.not(Any:reference, any:other)
-Assertivity.prototype.it.has.not.key(Any:reference, any:other)
-Assertivity.prototype.it.has.not.keys(Any:reference, any:other)
-Assertivity.prototype.it.has.not.value(Any:reference, any:other)
-Assertivity.prototype.it.has.not.values(Any:reference, any:other)
-```js
-
-
-# 4. Conclusion
-
-This is a basic class. Adapt it to your own convenience, it is free.
+This is a basic class only.
